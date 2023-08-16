@@ -36,7 +36,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/calculator-multitheme-PIC063pAa)
-- Live Site URL: [Add live site URL here](https://godm0de.github.io/Calculator-app/)
+- Live Site URL: [Add live site URL here](https://dmunoz-git.github.io/calculator-pwa/)
 
 ## My process
 
